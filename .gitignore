@@ -1,0 +1,6 @@
+# Built locally from your own ROM - never commit these
+*.nes
+gen/
+build/
+*.app/
+.DS_Store
